@@ -67,4 +67,5 @@ These repos are about emoticons too. Check them out :
 * [telabotanica/binette.js](https://github.com/telabotanica/binette.js)
 
 A method to detect kaomojis :
+
 Steven Bedrick, Russell Beckley, Brian Roark, and Richard Sproat. 2012. [Robust Kaomoji Detection in Twitter](http://aclanthology.info/papers/robust-kaomoji-detection-in-twitter). In Proceedings of the Second Workshop on Language in Social Media (LSM '12). Association for Computational Linguistics, Stroudsburg, PA, USA, 56-64.
