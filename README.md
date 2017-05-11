@@ -1,10 +1,14 @@
-# Emoticon_Regex :simple_smile:
+# Emoticon_Regex :-)
 
-The regexes matches emoticons and kaomojis that can be found in [`emoticons.json`](./emoticons.json).
+@}-'-,-- 
+
+The regexes matches emoticons and kaomojis that can be found in [`emoticons.json`](./emoticons.json). 
+
+\>°)))>
 
 ## Emoticon
 
-###Human readable
+### Human readable =)
 
 ```python
 pixelart = {
@@ -33,7 +37,7 @@ emoticon = r"{hat}?{eyes}'?{nose}?{mouth}|{mouth}{nose}?'?{eyes}{hat}?|{pixelart
 emoticon = r"(?:\*?[03<>]|\(\)|3>)?(?:[¦|:;=38BEXxz@%+]|\(:\))'?[-'o^~]?[\)\(\|\]\[}{>3DdQPpOoXxSs@€*$#/\\°~]|[\)\(\|\]\[}{>3DdQPpOoXxSs@€*$#/\\°~][-'o^~]?'?(?:[¦|:;=38BEXxz@%+]|\(:\))(?:\*?[03<>]|\(\)|3>)?|<(?:/|\\)?3|&\[ \]|\[]==\[]|\(___\(--#|>°\)+><|69|\(\.\\°\)|\([_ ][Y¤)()][_ ]\)|\( [o\.] (?:\)\(|Y) [o\.] \)|(?:\(_\)_\)|[c83])=+[D3]|{\('\)}|_@_/|i@_|@}[->',]+"
 ```
 
-## Kaomoji
+## Kaomoji ^o^
 
 ### Human readable
 
